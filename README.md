@@ -9,6 +9,7 @@ If you have specific questions, check the docs, Google, or reach out to us.
 At this point you'll hopefully have a basic understanding of front end web technology.
 If you'd like to go more in depth, I've provided a free online book for each technology.
 When you're ready to move on, follow the same process with the back end tech section.
+We use many more technologies than I have listed here, but these are the ones we spend most of our time on.
 If you have any questions along the way, feel free to reach out to us.
 We want this to be a mutually beneficial internship.
 We hope that you'll add value to our team and come out of this with a huge boost in web development experience.
@@ -49,4 +50,13 @@ We hope that you'll add value to our team and come out of this with a huge boost
 
 ## Back End Tech
 
-### TODO
+### Groovy/Grails
+* Video - [Groovy Tutorial](https://www.youtube.com/watch?v=B98jc8hdu9g)
+* Tutorial - [Creating your first Grails Application](http://guides.grails.org/creating-your-first-grails-app/guide/index.html)
+* Docs - [Groovy Reference](http://groovy-lang.org/documentation.html)
+* Docs - [Grails Reference](http://docs.grails.org/2.5.6/)
+
+### MySQL
+* Video - [MySQL Tutorial](https://www.youtube.com/watch?v=yPu6qV5byu4)
+* Docs - [MySQL Reference](https://dev.mysql.com/doc/refman/5.7/en/)
+
