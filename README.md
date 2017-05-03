@@ -5,8 +5,13 @@ I would recommend starting by downloading the tools below and using them as you 
 Once you've got the tools, you can start watching the front end videos from top to bottom.
 It will definitely help if you pause the videos as you go and try to code along with them.
 After you've gotten through the videos, check out Free Code Camp for interactive tutorials.
+If you have specific questions, check the docs, Google, or reach out to us.
 At this point you'll hopefully have a basic understanding of front end web technology.
 If you'd like to go more in depth, I've provided a free online book for each technology.
+When you're ready to move on, follow the same process with the back end tech section.
+If you have any questions along the way, feel free to reach out to us.
+We want this to be a mutually beneficial internship.
+We hope that you'll add value to our team and come out of this with a huge boost in web development experience.
 
 ## Interactive Web Development Courses
 
@@ -26,12 +31,21 @@ If you'd like to go more in depth, I've provided a free online book for each tec
 ### HTML
 * Video - [Learn HTML in 12 Minutes](https://www.youtube.com/watch?v=bWPMSSsVdPk)
 * Video - [Learn More HTML in 12 Minutes](https://www.youtube.com/watch?v=KJ13lX20FqU)
+* Docs - [MDN HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
 
-### JavaScript
+### CSS
+* Video - [CSS3 Tutorial](https://www.youtube.com/watch?v=CUxH_rWSI1k)
+* Docs - [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
+### Javascript
 * Video - [Beginner JavaScript Tutorial](https://www.youtube.com/watch?v=fju9ii8YsGs)
+* Book - [Eloquent JavaScript](http://eloquentjavascript.net/)
+* Docs - [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 ### Angular 1.x
 * Video - [AngularJS Fundamentals In 60-ish Minutes](https://www.youtube.com/watch?v=i9MHigUZKEM)
+* Book - [Angular Basics](http://www.angularjsbook.com/angular-basics/chapters/)
+* Docs - [AngularJS API Docs](https://code.angularjs.org/1.5.11/docs/api)
 
 ## Back End Tech
 
