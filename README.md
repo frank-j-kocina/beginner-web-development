@@ -12,7 +12,7 @@ I just want to get the concepts out there right away and then go back in more de
 ## Tool Set and Miscellaneous Tech
 
 ### Integrated Development Environment (IDE)
-* [IntelliJ IDEA](https://www.jetbrains.com/idea) - We do most of our coding in IntelliJ. There is a 30 free trial on the ultimate edition. It is kind of overkill for learning, but would be good to get familiar with.
+* [IntelliJ IDEA](https://www.jetbrains.com/idea) - We do most of our coding in IntelliJ. There is a 30 day free trial on the ultimate edition. It is kind of overkill for learning, but would be good to get familiar with.
 
 ## Front End Tech
 
