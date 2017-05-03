@@ -14,10 +14,6 @@ If you have any questions along the way, feel free to reach out to us.
 We want this to be a mutually beneficial internship.
 We hope that you'll add value to our team and come out of this with a huge boost in web development experience.
 
-## Interactive Web Development Courses
-
-* [Free Code Camp](https://www.freecodecamp.com) - I went through a few of the lessons and think this is much better than Codecademy. This would be great to go through after watching the front end crash course videos to reinforce the concepts there.
-
 ## Tool Set and Miscellaneous Tech
 
 ### Integrated Development Environment (IDE)
@@ -28,9 +24,7 @@ We hope that you'll add value to our team and come out of this with a huge boost
 * [GitHub](https://desktop.github.com/) Our source is hosted on [GitHub](https://github.com/) and they provide a desktop application which might be easier to begin with than the Git CLI.
 
 ### Database Management
-* [DbVisualizer](https://www.dbvis.com/)
-* [Sequl Pro](https://www.sequelpro.com/)
-* Some of us use DbVisualizer and others use Sequel Pro. I find DbVisualizer to be more intuitive and easier to work with.
+* [DbVisualizer](https://www.dbvis.com/), [Sequl Pro](https://www.sequelpro.com/) - Some of us use DbVisualizer and others use Sequel Pro. I find DbVisualizer to be more intuitive and easier to work with.
 
 ## Front End Tech
 
@@ -64,4 +58,8 @@ We hope that you'll add value to our team and come out of this with a huge boost
 ### MySQL
 * Video - [MySQL Tutorial](https://www.youtube.com/watch?v=yPu6qV5byu4)
 * Docs - [MySQL Reference](https://dev.mysql.com/doc/refman/5.7/en/)
+
+## Interactive Web Development Courses
+
+* [Free Code Camp](https://www.freecodecamp.com) - I went through a few of the lessons and think this is much better than Codecademy. This would be great to go through after watching the front end crash course videos to reinforce the concepts there.
 
