@@ -3,12 +3,17 @@
 This guide assumes zero knowledge of web development.
 I would recommend starting by downloading the tools below and using them as you learn.
 Once you've got the tools, you can start watching the front end videos from top to bottom.
-It will definitely help if you pause the videos as you go and try to code along with them.
+I often find it very helpful to pause the videos as I go and try to code along with them.
+
 After you've gotten through the videos, check out Free Code Camp for interactive tutorials.
 If you have specific questions, check the docs, Google, or reach out to us.
-At this point you'll hopefully have a basic understanding of front end web technology.
-If you'd like to go more in depth, I've provided a free online book for each technology.
+After working through these videos, you'll hopefully have a basic understanding of front end web technology.
+
+If you'd like to go more in depth, I've provided free online books for many of the technologies.
+Others do not have any good free books available.
+For these, you can sign up for a free trial with [Safari Books](https://www.safaribooksonline.com/).
 When you're ready to move on, follow the same process with the back end tech section.
+
 We use many more technologies than I have listed here, but these are the ones we spend most of our time on.
 If you have any questions along the way, feel free to reach out to us.
 We want this to be a mutually beneficial internship.
