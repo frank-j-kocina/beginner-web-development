@@ -1,4 +1,4 @@
-# Beginner Web Development
+# Beginner Web Development Guide
 
 This guide assumes zero knowledge of web development.
 I would recommend starting by downloading the tools below and using them as you learn.
@@ -56,6 +56,7 @@ We hope that you'll add value to our team and come out of this with a huge boost
 
 ### Groovy/Grails
 * Video - [Groovy Tutorial](https://www.youtube.com/watch?v=B98jc8hdu9g)
+* Book - [Grails In Action](https://www.safaribooksonline.com/)
 * Tutorial - [Creating your first Grails Application](http://guides.grails.org/creating-your-first-grails-app/guide/index.html)
 * Docs - [Groovy Reference](http://groovy-lang.org/documentation.html)
 * Docs - [Grails Reference](http://docs.grails.org/2.5.6/)
