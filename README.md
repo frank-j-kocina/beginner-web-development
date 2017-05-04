@@ -26,7 +26,7 @@ We hope that you'll add value to our team and come out of this with a huge boost
 
 ### Source Control Management
 * [Git](https://git-scm.com/) - We use Git for source control. Most of us just use this command line interface. The docs page and quick reference guide of this site will tell you all you'd ever want to know about Git and more.
-* [GitHub](https://desktop.github.com/) Our source is hosted on [GitHub](https://github.com/) and they provide a desktop application which might be easier to begin with than the Git CLI.
+* [GitHub Desktop](https://desktop.github.com/) - Our source is hosted on [GitHub](https://github.com/) and they provide a desktop application which might be easier to begin with than the Git CLI.
 
 ### Database Management
 * [DbVisualizer](https://www.dbvis.com/), [Sequl Pro](https://www.sequelpro.com/) - Some of us use DbVisualizer and others use Sequel Pro. I find DbVisualizer to be more intuitive and easier to work with.
